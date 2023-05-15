@@ -27,6 +27,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ## ACTIVITY_MAIN.XML
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -70,6 +71,7 @@ Step 7: Save and run the application.
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 ## MAINACTIVITY.JAVA
+
 package com.example.exercise_01;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -112,15 +114,55 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), "On Destroy Called", Toast.LENGTH_SHORT).show();
     }
 }
-/*
-Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
-*/
-```
+
+
+Developed by: AKASH KUMAR B
+
+Registeration Number : 212221040011
+
 
 ## OUTPUT
 
+ACTIVITY_MAIN.XML
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Ex%2001%2002.png?raw=true)
+
+MAINACTIVITY.JAVA
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Ex%2001%2001.png?raw=true)
+
+
+ONCREATE()
+
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/07.jpg?raw=true)
+
+
+ONSTRART()
+
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/01.jpg?raw=true)
+
+
+ONRESTART()
+
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/02.jpg?raw=true)
+
+
+ONRESUME()
+
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/03.jpg?raw=true)
+
+
+ONSTOP()
+
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/04.jpg?raw=true)
+
+
+ONPAUSE()
+
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/05.jpg?raw=true)
+
+
+ONDESTROY()
+
+![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/06.jpg?raw=true)
 
 
 

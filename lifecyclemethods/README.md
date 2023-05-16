@@ -129,46 +129,46 @@ Registration Number : 212221040011
 
 ## OUTPUT
 
-ACTIVITY_MAIN.XML
+## ACTIVITY_MAIN.XML
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Ex%2001%2002.png?raw=true)
 
-MAINACTIVITY.JAVA
+## MAINACTIVITY.JAVA
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Ex%2001%2001.png?raw=true)
 
 
-ONCREATE()
+## ONCREATE()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/07.jpg?raw=true)
 
 
-ONSTRART()
+## ONSTRART()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/01.jpg?raw=true)
 
 
-ONRESTART()
+## ONRESTART()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/02.jpg?raw=true)
 
 
-ONRESUME()
+## ONRESUME()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/03.jpg?raw=true)
 
 
-ONSTOP()
+## ONSTOP()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/04.jpg?raw=true)
 
 
-ONPAUSE()
+## ONPAUSE()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/05.jpg?raw=true)
 
 
-ONDESTROY()
+## ONDESTROY()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/06.jpg?raw=true)
 

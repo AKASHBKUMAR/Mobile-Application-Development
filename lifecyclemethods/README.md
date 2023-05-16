@@ -1,4 +1,4 @@
-# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
+# Ex.No:1 Create a HelloWorld Activity using all lifecycles methods to display messages.
 
 
 ## AIM:

@@ -143,7 +143,7 @@ Registration Number : 212221040011
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/07.jpg?raw=true)
 
 
-## ONSTRART()
+## ONSTART()
 
 ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/01.jpg?raw=true)
 

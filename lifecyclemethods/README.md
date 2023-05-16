@@ -124,7 +124,7 @@
 
 Developed by: AKASH KUMAR B
 
-Registeration Number : 212221040011
+Registration Number : 212221040011
 
 
 ## OUTPUT

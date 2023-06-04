@@ -1,4 +1,5 @@
-## Ex.No:3 Develop program to create a text field and a button “Navigate”. When you enter “www.google.com” and press navigate button it should open google page using Implicit Intents.
+## Develop a program to create a text field and a button “NAVIGATE”. When you enter www.google.com and press navigate it should open Google page 
+using Implicit Intents.
 
 
 ## AIM:
@@ -124,10 +125,22 @@ Developed by: AKASH KUMAR B
 
 Registration Number : 212221040011
 
-## OUTPUT
+## OUTPUT:
 
-
-
+   ## ACTIVITY MAIN.XML:
+   ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Implicitintent/ACTIVITY%20MAIN%20XML.jfif)
+   
+   ## MAIN ACTIVITY.JAVA:
+   ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Implicitintent/MAIN%20ACTIVITY%20JAVA.jfif)
+    
+   ## BEFORE NAVIGATE:
+   ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Implicitintent/Before%20Navigate.jpg)
+    
+   ## AFTER NAVIGATE:
+   ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Implicitintent/After%20Navigate.jpg)
+    
+   ## GOOGLE OUTPUT:
+   ![](https://github.com/AKASHBKUMAR/Mobile-Application-Development/blob/main/Implicitintent/Google%20Output.jpg)
 
 ## RESULT
     Thus a Simple Android Application create a navigate button using Implicit Intent to display the google page 
